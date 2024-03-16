@@ -6,9 +6,9 @@
 The real meat and potatoes around here. All the code laid out by subject matter.
 
 # :briefcase: Virtualize Brief
-This site attempts to fill in holes in Citrix’s and VMware’s documentation by providing real live experience for Citrix Virtual Apps and Desktops, Citrix StoreFront, Citrix Provisioning, Citrix NetScaler ADC, VMware vSphere, VMware Horizon and VMware Workspace ONE implementations. Remember lets keep it brief.
+Filling in the gaps for Citrix and VMware by providing real live experience in Citrix Virtual App & Desktop, StoreFront, Provisioning, NetScaler, VMware vSphere, Horizon and Workspace ONE platforms. Remember lets keep it brief.
 
 # :walking: Michael Wood
-Father of five. Husband of one.
+Father of five. Husband of one. :man: :woman: :boy: :boy: :girl: :girl: :boy:
 
 Citrix expert in virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for humans.
