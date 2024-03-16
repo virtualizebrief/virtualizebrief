@@ -8,16 +8,9 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 
 `Wood Cloud | Marketplace`
 
-:convenience_store: [https://marketplace.woodcloud.one](https://marketplace.woodcloud.one){:target="_blank" rel="noopener"}
+:convenience_store: [https://marketplace.woodcloud.one](https://marketplace.woodcloud.one)
 
 
 `Github Wiki`
 
 :newspaper: [https://github.com/virtualizebrief/home/wiki](https://github.com/virtualizebrief/home/wiki)
-
-
-[link](https://example.com){target="_blank"}
-
-<a href="https://ebay.com/" target="_ebay">ebay.com</a>
-
-<a href="http://example.com" target="_blank">http://example.com</a>
