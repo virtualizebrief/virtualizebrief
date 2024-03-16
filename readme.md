@@ -1,4 +1,4 @@
-|:newspaper: [Github Wiki](https://github.com/virtualizebrief/home/wiki)|:convenience_store: [Wood Cloud](https://marketplace.woodcloud.one/)|:convenience_store: [Ghost Blog](https://virtualizebrief.woodcloud.one/)|[!Linkedin(https://i.stack.imgur.com/gVE0j.png)] [LinkedIn](https://www.linkedin.com/in/michaelcharleswood/)|
+|:newspaper: [Github Wiki](https://github.com/virtualizebrief/home/wiki)|:convenience_store: [Wood Cloud](https://marketplace.woodcloud.one/)|:convenience_store: [Ghost Blog](https://virtualizebrief.woodcloud.one/)|[![LinkedinImage](https://i.stack.imgur.com/gVE0j.png)] [LinkedIn](https://www.linkedin.com/in/michaelcharleswood/)|
 |---|---|---|---|
 
 # Virtualize Brief :briefcase:
