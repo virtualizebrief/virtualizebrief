@@ -18,4 +18,4 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 
 [link](https://example.com){target="_blank"}
 
-<a href="https://ebay.com/" target="_blank">ebay.com</a>
+<a href="https://ebay.com/" target="_ebay">ebay.com</a>
