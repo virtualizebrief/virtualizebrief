@@ -18,3 +18,11 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 
 
 <a href="https://marketplace.woodcloud.one" class="button big">Wood Cloud | Marketplace</a>
+
+
+<div class="button-group minor-group">
+    <a href="#" class="button primary">Dashboard</a>
+    <a href="#" class="button">Inbox</a>
+    <a href="#" class="button">Account</a>
+    <a href="#" class="button">Logout</a>
+</div>
