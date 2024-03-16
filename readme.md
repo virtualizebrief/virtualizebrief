@@ -5,7 +5,7 @@
 This site attempts to fill in holes in Citrix’s and VMware’s documentation by providing real live experience for Citrix Virtual Apps and Desktops, Citrix StoreFront, Citrix Provisioning, Citrix NetScaler ADC, VMware vSphere, VMware Horizon and VMware Workspace ONE implementations. Remember lets keep it brief.
 
 # Collection
-:books: [Learn more here](https://github.com/virtualizebrief/collection)
+:books: [Take me to repository](https://github.com/virtualizebrief/collection)
 
 The real meat and potatoes around here. Repository of all the code laid out by subject matter.
 
