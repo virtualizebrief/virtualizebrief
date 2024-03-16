@@ -2,7 +2,7 @@
 |---|---|---|---|
 
  # :books: Collection
-The real meat and potatoes around here. Repository of all the code laid out by subject matter.
+The real meat and potatoes around here. Repository of all the code laid out by subject matter. <br>
 :arrow_right: [Take me to repository](https://github.com/virtualizebrief/collection)
 
 # :briefcase: Virtualize Brief
