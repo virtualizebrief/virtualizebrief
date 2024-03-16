@@ -2,7 +2,7 @@
 |---|---|---|---|
 
  # :books: Collection
- <span style="color: green">  :arrow_right: [Take me to repository](https://github.com/virtualizebrief/collection) </span>
+ <span style="color: green"> hi :arrow_right: [Take me to repository](https://github.com/virtualizebrief/collection) </span>
 
 
 The real meat and potatoes around here. Repository of all the code laid out by subject matter.
