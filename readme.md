@@ -8,3 +8,5 @@ This site attempts to fill in holes in Citrix’s and VMware’s documentation b
 Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for humans.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
+![](https://i.stack.imgur.com/gVE0j.png)
