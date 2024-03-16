@@ -1,4 +1,4 @@
-|:convenience_store: [Wood Cloud Marketplace](https://marketplace.woodcloud.one/)||:newspaper: [Github Wiki](https://github.com/virtualizebrief/home/wiki)| 
+|:convenience_store: [Wood Cloud Marketplace](https://marketplace.woodcloud.one/)|:newspaper: [Github Wiki](https://github.com/virtualizebrief/home/wiki)| 
 |---|---|
 
 # Virtualize Brief :briefcase:
