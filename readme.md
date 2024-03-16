@@ -4,7 +4,7 @@
 # Virtualize Brief :briefcase:
 This site attempts to fill in holes in Citrix’s and VMware’s documentation by providing real live experience for Citrix Virtual Apps and Desktops, Citrix StoreFront, Citrix Provisioning, Citrix NetScaler ADC, VMware vSphere, VMware Horizon and VMware Workspace ONE implementations. Remember lets keep it brief.
 
-# [Collections](https://github.com/virtualizebrief/collection)
+# [Collection](https://github.com/virtualizebrief/collection)
 The real meat and potatoes around here. Set of things laid out in subject matters.
 
 ## Michael Wood :runner:
