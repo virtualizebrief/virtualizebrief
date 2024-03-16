@@ -14,3 +14,6 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 `Github Wiki`
 
 :newspaper: [https://github.com/virtualizebrief/home/wiki](https://github.com/virtualizebrief/home/wiki)
+
+
+[link](https://example.com){target="_blank"}
