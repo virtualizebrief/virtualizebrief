@@ -2,7 +2,7 @@
 |---|---|---|---|
 
  # :books: Collection
-:arrow_right: [Take me to repository](https://github.com/virtualizebrief/collection)
+:arrow_right: [Take me to the goods](https://github.com/virtualizebrief/collection)
 
 The real meat and potatoes around here. Repository of all the code laid out by subject matter.
 
