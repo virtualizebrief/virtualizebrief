@@ -6,23 +6,11 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 
 ### Want to know more? Resources below
 
-`Wood Cloud | Marketplace`
+|[:convenience_store: Wood Cloud Marketplace](https://marketplace.woodcloud.one/)|
+|---|
 
-:convenience_store: [https://marketplace.woodcloud.one](https://marketplace.woodcloud.one)
-
-
-`Github Wiki`
-
-:newspaper: [https://github.com/virtualizebrief/home/wiki](https://github.com/virtualizebrief/home/wiki)
+|[:newspaper: Github Wiki](https://github.com/virtualizebrief/home/wiki))|
+|---|
 
 
 
-<a href="https://marketplace.woodcloud.one" class="button big">Wood Cloud | Marketplace</a>
-
-
-<div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
-</div>
