@@ -4,5 +4,5 @@ This site attempts to fill in holes in Citrix’s and VMware’s documentation b
 ## Michael Wood
 Father of five. Husband of one. Citrix expert in Virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for people.
 
-### Want to know more? Resources and links at Wood Cloud.
-https://marketplace.woodcloud.one
+### Want to know more? Resources and links at Wood Cloud | Marketplace
+:convenience_store: https://marketplace.woodcloud.one
