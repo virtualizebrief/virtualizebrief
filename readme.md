@@ -8,7 +8,7 @@ Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certi
 
 `Wood Cloud | Marketplace`
 
-:convenience_store: [https://marketplace.woodcloud.one](https://marketplace.woodcloud.one){:target="_blank" rel="marketplace"}
+:convenience_store: [https://marketplace.woodcloud.one](https://marketplace.woodcloud.one){:target="_blank" rel="noopener"}
 
 
 `Github Wiki`
