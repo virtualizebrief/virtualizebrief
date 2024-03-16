@@ -6,14 +6,3 @@ This site attempts to fill in holes in Citrix’s and VMware’s documentation b
 
 ## Michael Wood :runner:
 Father of five. Husband of one. Citrix expert in virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for humans.
-
-### Want to know more? Resources below
-
-|:convenience_store: [Wood Cloud Marketplace](https://marketplace.woodcloud.one/)|
-|---|
-
-
-|---|
-
-
-
