@@ -2,7 +2,7 @@
 |---|---|---|---|
 
  # :books: Collection
-:arrow_right: [Take me to repository](https://github.com/virtualizebrief/collection) <br>
+[Take me to repository](https://github.com/virtualizebrief/collection) <br>
 The real meat and potatoes around here. All the code laid out by subject matter.
 
 # :briefcase: Virtualize Brief
