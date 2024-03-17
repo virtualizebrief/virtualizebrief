@@ -1,4 +1,4 @@
-|[Github wiki](https://github.com/virtualizebrief/home/wiki)|[Wood cloud](https://marketplace.woodcloud.one/)|[VB blog](https://virtualizebrief.woodcloud.one/)|![](https://i.stack.imgur.com/gVE0j.png) [MW on LinkedIn](https://www.linkedin.com/in/michaelcharleswood/)|
+|[Github wiki](https://github.com/virtualizebrief/home/wiki)|[Wood cloud](https://marketplace.woodcloud.one/)|[VB blog](https://virtualizebrief.woodcloud.one/) :arrow_upper_right:|[MW on LinkedIn](https://www.linkedin.com/in/michaelcharleswood/) :arrow_upper_right:|
 |---|---|---|---|
 
  # :books: Collection
@@ -12,3 +12,10 @@ Filling in the gaps for Citrix and VMware by providing real live experience in C
 - Father of five.
 - Husband of one.
 - Citrix expert in virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for humans.
+
+<!-- 
+
+Icon for LinkedIn
+![](https://i.stack.imgur.com/gVE0j.png) 
+
+-->
