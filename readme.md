@@ -1,4 +1,4 @@
-|:newspaper: [Github wiki](https://github.com/virtualizebrief/home/wiki)|:cloud: [Wood cloud](https://marketplace.woodcloud.one/)|:ledger: [VB blog](https://virtualizebrief.woodcloud.one/)|![](https://i.stack.imgur.com/gVE0j.png) [MW on LinkedIn](https://www.linkedin.com/in/michaelcharleswood/)|
+|[Github wiki](https://github.com/virtualizebrief/home/wiki)|[Wood cloud](https://marketplace.woodcloud.one/)|[VB blog](https://virtualizebrief.woodcloud.one/)|![](https://i.stack.imgur.com/gVE0j.png) [MW on LinkedIn](https://www.linkedin.com/in/michaelcharleswood/)|
 |---|---|---|---|
 
  # :books: Collection
