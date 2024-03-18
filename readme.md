@@ -2,7 +2,7 @@
 |---|---|---|---|---|
 
 # :books: Collection
-![](https://img.shields.io/npm/dm/github-wiki-sidebar.svg) 
+![](https://img.shields.io/npm/dm/github-wiki-sidebar.svg) <br>
 [Take me to repository](https://github.com/virtualizebrief/collection) <br>
 The real meat and potatoes around here. All the code laid out by subject matter.
 
