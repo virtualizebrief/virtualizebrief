@@ -2,6 +2,7 @@
 |---|---|---|---|---|
 
  # :books: Collection
+[![Downloads][downloads-image]][downloads-url]
 [Take me to repository](https://github.com/virtualizebrief/collection) <br>
 The real meat and potatoes around here. All the code laid out by subject matter.
 
@@ -12,6 +13,11 @@ Filling in the gaps for Citrix and VMware by providing real live experience in C
 - Father of five.
 - Husband of one.
 - Citrix expert in virtualization, Microsoft Certified Systems Engineer, Google Cloud Architect and much more working in the IT arena to make life better for people.
+
+[npm-image]: https://img.shields.io/npm/v/github-wiki-sidebar.svg
+[npm-url]: https://npmjs.org/package/github-wiki-sidebar
+[downloads-image]: https://img.shields.io/npm/dm/github-wiki-sidebar.svg
+[downloads-url]: https://npmjs.org/package/github-wiki-sidebar
 
 <!-- 
 
