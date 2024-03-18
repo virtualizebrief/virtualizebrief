@@ -2,7 +2,7 @@
 |---|---|---|---|---|
 
 # :books: Collection
-[Take me to repository](https://github.com/virtualizebrief/collection/blob/main/readme.md) <br>
+:mailbox_with_mail: [Take me to repository](https://github.com/virtualizebrief/collection/blob/main/readme.md) <br>
 The real meat and potatoes around here. All the code laid out by subject matter.
 
 # :briefcase: Virtualize Brief
